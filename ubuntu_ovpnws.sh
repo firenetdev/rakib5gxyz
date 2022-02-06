@@ -2,9 +2,9 @@
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='209.159.152.66';
-USER='crypticv_xctunnel';
+USER='crypticv_rakib5g';
 PASS='@@@@F1r3n3t';
-DBNAME='crypticv_xctunnel';
+DBNAME='crypticv_rakib5g';
 
 install_require()
 {
